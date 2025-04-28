@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `hub` ADD COLUMN `agency` VARCHAR(191) NOT NULL DEFAULT 'NITDA';
